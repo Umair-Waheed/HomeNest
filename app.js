@@ -86,6 +86,7 @@ app.use((req,res,next)=>{
 
 
 // use required listings routes also called parent route
+app.get("/", (req, res) => res.redirect("/listings"));
 app.use("/",userRouter);
 app.use("/listings",listingRouter);
 app.use("/listings/:id/reviews",reviewRouter);
