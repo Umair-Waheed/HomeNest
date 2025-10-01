@@ -48,7 +48,7 @@ The project is built using **EJS** for server-side rendering and provides a smoo
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](./src/assets/gympulse-img.png)
+![Homepage](./uploads/HomeNest.png)
 
 👨‍💻 Author
 
